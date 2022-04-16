@@ -3,9 +3,8 @@ Portfolio with django
 
 ## PART 1: SETUP AND INTRODUCTION
 
-1- Install Vscode and python for Windows
+1- Install python for Windows
 https://www.python.org/downloads/windows/
-https://code.visualstudio.com/download#
 
 
 2- Overview of Django
@@ -48,7 +47,7 @@ Test Django
 
 
 ---------------------------------------------------------------------
-##PART 2: MODELS AND ADMIN INTERFACE
+## PART 2: MODELS AND ADMIN INTERFACE
 
 https://docs.djangoproject.com/en/3.1/topics/db/models/
 https://docs.djangoproject.com/en/3.1/ref/contrib/admin/
@@ -93,7 +92,7 @@ if settings.DEBUG:
 
 ---------------------------------------------------------------------
 
-##PART 3: VIEWS AND TEMPLATES
+## PART 3: VIEWS AND TEMPLATES
 
 
 17- Write basic view, add index.html in app template folder and configure 
