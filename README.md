@@ -3,7 +3,7 @@ Portfolio with django
 
 ## PART 1: SETUP AND INTRODUCTION
 
-1- Install python for Windows
+1- Install python for Windows :
 https://www.python.org/downloads/windows/
 
 
@@ -11,7 +11,7 @@ https://www.python.org/downloads/windows/
 Models-Viewa-Templates
 
 
-3- Test python
+3- Test python :
 `py -3 --version`
 
 4- Create Virtual Environment where you install python packages to isolate from
